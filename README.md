@@ -48,6 +48,6 @@ git clone git@github.com:Andreyrvs/converting-images.git
 * Para rodar a aplicação:
 
   ```bash
-    cd src/
-    python3 -u 
+  cd src/
+  python3 -u 
   ```
