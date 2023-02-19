@@ -13,9 +13,9 @@ Aplicação:
 
 * clone o projeto:
 
-```bash
-git clone git@github.com:Andreyrvs/converting-images.git
-```
+  ```bash
+  git clone git@github.com:Andreyrvs/converting-images.git
+  ```
 
 > Aplicação
 
