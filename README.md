@@ -6,9 +6,6 @@ Este projeto trata-se de uma ferramenta de back-office para armazenar e buscar d
 
 ## Técnologias usadas
 
-Front-end:
-> Desenvolvido usando: React, Redux, CSS3, HTML5, Redis, ES6
-
 Back-end:
 > Desenvolvido usando: NodeJS, ExpressJS, MongoDB, MYSQL, ES6
 
@@ -22,10 +19,27 @@ git clone
 
 > Aplicação
 
+1. Entre no diretório
+
 ```bash
-  cd converting-iamges/ 
+  cd converting-images/ 
+```
+
+2. Criar o ambiente virtual
+
+```bash
   python3 -m venv .venv
+```
+
+3. Ativar o ambiente virtual
+
+```bash
   source .venv/bin/activate
+```
+
+4. Instalar as dependências no ambiente virtual
+
+```bash
   python3 -m pip install -r dev-requirements.txt
 ```
 
@@ -34,5 +48,6 @@ git clone
 * Para rodar a aplicação:
 
 ```bash
-cd api/ && npm start
+  cd src/
+  python3 -u 
 ```
