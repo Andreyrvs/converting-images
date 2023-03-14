@@ -49,5 +49,5 @@ Aplicação:
 
   ```bash
   cd src/
-  python3 -u 
+  python3 -u converter_formats.py
   ```
